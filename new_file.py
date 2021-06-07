@@ -1,3 +1,4 @@
+print('Alphabetic Pattern')
 rows=5
 chara=65
 for i in range(rows):
